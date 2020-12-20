@@ -113,7 +113,7 @@ This repository only contains the common code for all platforms; it does not con
 If you would like to include Manamoon code in your own build process, consider using [the tags in this repo](//github.com/SAINT-CORP/Manamoon/tags). These tags follow the format `{chromium_version}-{revision}` where
 
 * `chromium_version` is the version of Chromium used in `x.x.x.x` format, and
-* `revision` is a number indicating the version of ungoogled-chromium for the corresponding Chromium version.
+* `revision` is a number indicating the version of Manamoon for the corresponding Chromium version.
 
 Additionally, most platform-specific repos extend their tag scheme upon this one.
 
