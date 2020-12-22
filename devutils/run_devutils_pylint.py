@@ -31,7 +31,7 @@ def main():
     if not args.show_locally_disabled:
         disables.append('locally-disabled')
 
-    pylint_option = [
+    pylint_options = [
         '--disable={}'.format(','.join(disables)),
         '--jobs=4',
         '--score=n',
