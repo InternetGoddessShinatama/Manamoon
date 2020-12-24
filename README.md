@@ -2,8 +2,6 @@
 
 *A lightweight web browser to remove Google web service dependency*
 
-**Help is very welcome!** I appreciate the consideration. See the [docs/contributing.md](docs/contributing.md) document for more information.
-
 ## Objectives
 
 In descending order of significance (i.e. most important objective first):
